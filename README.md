@@ -6,7 +6,8 @@
   <p>Humana, sonhadora e apaixonada por tecnologia e design 🌸</p>
 
   <!-- Badge do Instagram corrigido e funcionando -->
-  <a href="https://www.instagram.com/l3rid1a_/"><img src="https://shields.io" alt="Instagram"></a>
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/47cbd06e-bd2a-42c5-b385-e5c649196666" />
+<a href="https://www.instagram.com/l3rid1a_/"><img src="https://shields.io" alt="Instagram"></a>
 </div>
 
 <hr>
