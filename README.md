@@ -61,12 +61,12 @@
 
   <br><br>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=l3rid1a&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF6EB4&text_color=FFB6D9&icon_color=FF6EB4&border_color=FF6EB4&hide_border=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3rid1a&layout=compact&theme=radical&bg_color=0d1117&title_color=FF6EB4&text_color=FFB6D9&border_color=FF6EB4"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leridia-Casa&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF6EB4&text_color=FFB6D9&icon_color=FF6EB4&border_color=FF6EB4&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leridia-Casa&layout=compact&theme=radical&bg_color=0d1117&title_color=FF6EB4&text_color=FFB6D9&border_color=FF6EB4"/>
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=l3rid1a&theme=radical&background=0d1117&ring=FF6EB4&fire=FF85C2&currStreakLabel=FFB6D9&sideLabels=FFB6D9&currStreakNum=FF6EB4&sideNums=FF6EB4&dates=FF6EB4&border=FF6EB4" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Leridia-Casa&theme=radical&background=0d1117&ring=FF6EB4&fire=FF85C2&currStreakLabel=FFB6D9&sideLabels=FFB6D9&currStreakNum=FF6EB4&sideNums=FF6EB4&dates=FF6EB4&border=FF6EB4" alt="streak"/>
 
 </div>
 
@@ -79,9 +79,9 @@
   <br><br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l3rid1a/l3rid1a/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l3rid1a/l3rid1a/output/github-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/l3rid1a/l3rid1a/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leridia-Casa/Leridia-Casa/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leridia-Casa/Leridia-Casa/output/github-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/Leridia-Casa/Leridia-Casa/output/github-snake-dark.svg"/>
   </picture>
 
 </div>
