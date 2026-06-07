@@ -25,11 +25,7 @@
 ☕ &nbsp;Movida a café, kpop e códigos sem erros  
 💌 &nbsp;Conecte-se comigo!
 
-<br>
-
 > *"First, solve the problem. Then, write the code."* 🌷
-
-<br><br>
 
 <br clear="right"/>
 
@@ -39,7 +35,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FF6EB4&center=true&vCenter=true&width=400&lines=%E2%96%88+tecnologias+%E2%96%88" alt="tecnologias"/>
 
-  <br><br>
+  <br>
 
   <img src="https://img.shields.io/badge/█%20HTML-%23FF6EB4?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/█%20CSS-%23FFB6D9?style=flat-square&logo=css3&logoColor=white"/>
@@ -59,7 +55,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FF6EB4&center=true&vCenter=true&width=400&lines=%E2%96%88+meus+stats+%E2%96%88" alt="stats"/>
 
-  <br><br>
+  <br>
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leridia-Casa&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF6EB4&text_color=FFB6D9&icon_color=FF6EB4&border_color=FF6EB4&hide_border=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leridia-Casa&layout=compact&theme=radical&bg_color=0d1117&title_color=FF6EB4&text_color=FFB6D9&border_color=FF6EB4"/>
@@ -76,7 +72,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FF6EB4&center=true&vCenter=true&width=400&lines=%E2%96%88+contribution+graph+%E2%96%88" alt="contribution"/>
 
-  <br><br>
+  <br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leridia-Casa/Leridia-Casa/output/github-snake-dark.svg"/>
