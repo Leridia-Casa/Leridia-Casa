@@ -37,11 +37,11 @@
 
   <br>
 
-  <img src="https://img.shields.io/badge/█%20HTML-%23FF6EB4?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/█%20CSS-%23FFB6D9?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/█%20JavaScript-%23FF85C2?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/█%20TypeScript-%23FF6EB4?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/█%20React-%23FFB6D9?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20HTML-%23FF6EB4?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20CSS-%23FFB6D9?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20JavaScript-%23FF85C2?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20TypeScript-%23FF6EB4?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20React-%23FFB6D9?style=flat-square&logo=react&logoColor=white"/>
 
   <br><br>
 
