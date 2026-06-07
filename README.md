@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdkOGY2ZWxsZ3IxcmQ4Z2g3bXZ3NmJobm94Yzk0bW5xZHNsMmVvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="150px"/>
+
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF6EB4&center=true&vCenter=true&width=500&lines=%E2%99%A1+ol%C3%A1%2C+seja+bem-vindo(a)!+%E2%99%A1" alt="titulo"/>
   </h1>
