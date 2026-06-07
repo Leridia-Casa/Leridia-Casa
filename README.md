@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Gif do Stitch com link direto estável -->
-  <img src="https://giphy.com" width="150" alt="Stitch">
+  <img src=(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdkOGY2ZWxsZ3IxcmQ4Z2g3bXZ3NmJobm94Yzk0bW5xZHNsMmVvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif) width="150" alt="Stitch">
   
   <h1>✨ Olá, bem-vindo(a) ao meu mundinho! ✨</h1>
   <p>Humana, sonhadora e apaixonada por tecnologia e design 🌸</p>
