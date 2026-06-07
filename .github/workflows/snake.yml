@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: l3rid1a
+          github_user_name: Leridia-Casa
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
