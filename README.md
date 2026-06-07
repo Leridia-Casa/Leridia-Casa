@@ -18,15 +18,7 @@
 - 💌 Sinta-se livre para se conectar comigo!
 
 ### 🔮 Minhas Tecnologias Favoritas
-<div align="left">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="JS">
-  <img src="https://shields.io" alt="React">
-</div>
+<!-- Ícones fofos de tecnologia em formato fluído e limpo -->
+📌 **HTML5** | 📌 **CSS3** | 📌 **JavaScript** | 📌 **React** | 📌 **TypeScript**
 
-### 📊 Minhas Estatísticas (Tema Rose/Pastel)
-<div align="center">
-  <!-- Substitua l3rid1a_ pelo seu usuário real do GitHub se for diferente deste -->
-  <img src="https://vercel.app" alt="Estatísticas do GitHub">
-</div>
+<br>
