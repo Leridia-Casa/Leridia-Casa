@@ -85,5 +85,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EB4,FFB6D9&height=80&section=footer&fontColor=FF6EB4"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer"/>
 </div>
