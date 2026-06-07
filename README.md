@@ -22,10 +22,14 @@
 
 🎀 &nbsp;Estudando **JavaScript** e **TypeScript**  
 🌸 &nbsp;Apaixonada por interfaces bonitas  
-☕ &nbsp;Movida a café
+☕ &nbsp;Movida a café, kpop e códigos sem erros  
 💌 &nbsp;Conecte-se comigo!
 
-<br><br><br>
+<br>
+
+> *"First, solve the problem. Then, write the code."* 🌷
+
+<br><br>
 
 <br clear="right"/>
 
@@ -33,18 +37,57 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%20HTML-%23FF6EB4?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/%20CSS-%23FFB6D9?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/%20JavaScript-%23FF85C2?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/%20TypeScript-%23FF6EB4?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/%20React-%23FFB6D9?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FF6EB4&center=true&vCenter=true&width=400&lines=%E2%96%88+tecnologias+%E2%96%88" alt="tecnologias"/>
 
-<br><br>
+  <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light&perline=5"/>
+  <img src="https://img.shields.io/badge/█%20HTML-%23FF6EB4?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/█%20CSS-%23FFB6D9?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/█%20JavaScript-%23FF85C2?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/█%20TypeScript-%23FF6EB4?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/█%20React-%23FFB6D9?style=flat-square&logo=react&logoColor=white"/>
 
-<br><br>
+  <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EB4,FFB6D9&height=80&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light&perline=5"/>
 
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FF6EB4&center=true&vCenter=true&width=400&lines=%E2%96%88+meus+stats+%E2%96%88" alt="stats"/>
+
+  <br><br>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=l3rid1a&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF6EB4&text_color=FFB6D9&icon_color=FF6EB4&border_color=FF6EB4&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3rid1a&layout=compact&theme=radical&bg_color=0d1117&title_color=FF6EB4&text_color=FFB6D9&border_color=FF6EB4"/>
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=l3rid1a&theme=radical&background=0d1117&ring=FF6EB4&fire=FF85C2&currStreakLabel=FFB6D9&sideLabels=FFB6D9&currStreakNum=FF6EB4&sideNums=FF6EB4&dates=FF6EB4&border=FF6EB4" alt="streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FF6EB4&center=true&vCenter=true&width=400&lines=%E2%96%88+contribution+graph+%E2%96%88" alt="contribution"/>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l3rid1a/l3rid1a/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l3rid1a/l3rid1a/output/github-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/l3rid1a/l3rid1a/output/github-snake-dark.svg"/>
+  </picture>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EB4,FFB6D9&height=80&section=footer"/>
 </div>
